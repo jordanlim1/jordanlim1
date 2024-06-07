@@ -7,7 +7,8 @@
 🎥 Loves hiking, basketball, and fashion!\
 🖼️ Love to help fellow developers\
 
-📧 Let's connect!\
+📧 Let's connect!  \
+
 [LinkedIn] https://www.linkedin.com/in/jordanlim1/  \
 [Email] jordannlim1@gmail.com   
 
