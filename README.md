@@ -13,6 +13,7 @@
 [LinkedIn] https://www.linkedin.com/in/jordanlim1/  \
 [Email] jordannlim1@gmail.com   
 
-🛠 Building with:/
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)(REACT)](https://skillicons.dev)
+🛠 Building with:
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,mongodb,postgres,html,css,wasm)](https://skillicons.dev)
 
