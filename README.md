@@ -1,15 +1,15 @@
 ### Hi there 👋, Jordan here... Thanks for visiting my profile!
 
-- 🔭 I’m currently working on Open-source products: NextSketch - Prototyping and Visualization tool for Next.js apps \
-- 🌱 Always learning new technologies\
-- 💕 Passionate About: Developing beautiful and intuitive user interfaces with intricate designs and capturing color schemes\
+- 🔭 I’m currently working on Open-source products: NextSketch - Prototyping and Visualization tool for Next.js apps 
+- 🌱 Always learning new technologies
+- 💕 Passionate About: Developing beautiful and intuitive user interfaces with intricate designs and capturing color schemes
 - 💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, PostgreSQL and Webpack
 
 
 **🎉 About Me:**
 
 
-- 🎥 Loves hiking, basketball, cars, and photography\
+- 🎥 Loves hiking, basketball, cars, and photography
 - 🖼️ Love to help fellow developers
 
 
