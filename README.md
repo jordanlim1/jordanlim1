@@ -16,7 +16,7 @@
 **📧 Let's Connect!**
 
 - [LinkedIn] https://www.linkedin.com/in/jordanlim1/  
-- [Email] jordannlim1@gmail.com  
+- ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}) jordannlim1@gmail.com  
 
 
 ## 🛠 Building with:
