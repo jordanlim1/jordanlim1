@@ -6,12 +6,13 @@
 💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, PostgreSQL and Webpack\
 
 
-**About Me**
-🎥 Loves hiking, basketball, cars, and fashion!\
+**🎉 About Me:** /
+
+🎥 Loves hiking, basketball, cars, and photography!\
 🖼️ Love to help fellow developers
 
 
-**📧 Let's connect!**
+**📧 Let's Connect!**
 
 [LinkedIn] https://www.linkedin.com/in/jordanlim1/  \
 [Email] jordannlim1@gmail.com   
