@@ -21,5 +21,5 @@
 
 🛠 Building with:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,mongodb,postgres,webpack,aws,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,mongodb,node,postgres,webpack,aws,html,css)](https://skillicons.dev)
 
