@@ -6,7 +6,7 @@
 💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, PostgreSQL and Webpack
 
 
-🎉 About Me:
+**🎉 About Me:**
 
 
 🎥 Loves hiking, basketball, cars, and photography\
