@@ -7,11 +7,12 @@
 🎥 Loves hiking, basketball, and fashion!\
 🖼️ Love to help fellow developers\
 
+
 📧 Let's connect!  
 
 [LinkedIn] https://www.linkedin.com/in/jordanlim1/  \
 [Email] jordannlim1@gmail.com   
 
 🛠 Building with:
-HTML5 CSS3 Bootstrap TailwindCSS React NodeJS GraphQL Ruby Jest Docker AWS MongoDB Postgres SQLite Python Selenium
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
