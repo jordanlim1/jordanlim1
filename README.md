@@ -1,4 +1,4 @@
-## Hi there 👋, Jordan here... Thanks for visitng my profile!
+### Hi there 👋, Jordan here... Thanks for visitng my profile!
 
 🔭 I’m currently working on Open-source projects such as: NextSketch - Prototyping and Visualization tool for Next.js apps \
 🌱 Always learning new technologies\
