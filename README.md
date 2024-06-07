@@ -9,7 +9,7 @@
 **🎉 About Me:** 
 
 
-🎥 Loves hiking, basketball, cars, and photography!\
+🎥 Loves hiking, basketball, cars, and photography\
 🖼️ Love to help fellow developers
 
 
