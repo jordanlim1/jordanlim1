@@ -3,10 +3,10 @@
 🔭 I’m currently working on Open-source projects such as: NextSketch - Prototyping and Visualization tool for Next.js apps \
 🌱 Always learning new technologies\
 💕 Passionate About: Developing beautiful and intuitive user interfaces with intricate designs and capturing color schemes\
-💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, PostgreSQL and Webpack\
+💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, PostgreSQL and Webpack
 
 
-**🎉 About Me:** 
+##🎉 About Me:
 
 
 🎥 Loves hiking, basketball, cars, and photography\
