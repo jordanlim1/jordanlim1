@@ -19,7 +19,7 @@
 [Email] jordannlim1@gmail.com  
 
 
-##🛠 Building with:
+## 🛠 Building with:
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,mongodb,nodejs,nextjs,redux,express,postgres,webpack,aws,html,css)](https://skillicons.dev)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
